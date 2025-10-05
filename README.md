@@ -5,9 +5,7 @@ A serverless chatbot built with **AWS Lex V2**, **Lambda**, and **Amazon Transla
 ## Demo Video
 Watch it in action:
 
-![Demo Video](demo-video.mp4)
-
-Or download [here](demo-video.mp4)
+[![Demo Video](https://youtube.com/shorts/138wHdy5rGM?feature=share)
 
 ---
 
